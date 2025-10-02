@@ -1,0 +1,37 @@
+🎤 TEXT-TO-SPEECH POPUP - QUICK START CARD
+═══════════════════════════════════════════════════════════
+
+🚀 INSTANT USAGE (3 STEPS):
+   1. Select & Copy text (Ctrl+C)
+   2. Double-click "TTS Popup" on desktop  
+   3. Click "Play" → Listen! 🔊
+
+📍 FIND THE POPUP:
+   Desktop: "TTS Popup" shortcut
+   Start Menu: Search "TTS Popup"
+   PowerShell: tts-popup
+
+🎯 WORKS WITH:
+   ✓ Chrome web pages    ✓ Word documents
+   ✓ Emails             ✓ Social media  
+   ✓ PDFs               ✓ Any text on screen
+
+🎛️ POPUP CONTROLS:
+   [Load Clipboard] - Get copied text
+   [Play/Pause]     - Start/stop speech
+   [<<] [>>]        - Speed control
+   [Voice dropdown] - Choose voice
+
+⚡ EVEN FASTER:
+   Text auto-loads from clipboard when popup opens!
+   Just copy text → open popup → click play!
+
+🔧 TROUBLESHOOT:
+   No sound? Check volume and speakers
+   Nothing happens? Copy text first (Ctrl+C)
+   
+🆘 NEED HELP?
+   See: TTS-Setup-Guide.md for complete instructions
+
+═══════════════════════════════════════════════════════════
+Your Chrome extension-like text reader is ready! 🎊
